@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/green_organic_farming/static/css/main.c44d4841.css",
+    "main.js": "/green_organic_farming/static/js/main.04661171.js",
+    "static/media/guava.jpg": "/green_organic_farming/static/media/guava.be010a6d424157e2acb2.jpg",
+    "static/media/bary.jpg": "/green_organic_farming/static/media/bary.8ce979e697019a180115.jpg",
+    "static/media/dragon.jpg": "/green_organic_farming/static/media/dragon.83fc559184c0d94168b2.jpg",
+    "static/media/ginger.jpg": "/green_organic_farming/static/media/ginger.2faec5fbc295e7119c34.jpg",
+    "static/media/aboutusimg1.png": "/green_organic_farming/static/media/aboutusimg1.4119d9b0e66ac8bcf016.png",
+    "static/media/pngegg.png": "/green_organic_farming/static/media/pngegg.71cb1403ee3027b448d4.png",
+    "static/media/pro2.png": "/green_organic_farming/static/media/pro2.23476e8516975b5a224f.png",
+    "static/media/pro1.png": "/green_organic_farming/static/media/pro1.a69746c677e2de4caaad.png",
+    "static/media/pro3.png": "/green_organic_farming/static/media/pro3.2be10d56a418e60e7c6c.png",
+    "static/media/user4.jpg": "/green_organic_farming/static/media/user4.4e1103b43457e0472adc.jpg",
+    "static/media/user2.jpeg": "/green_organic_farming/static/media/user2.ed3f4cb9d4b48918d668.jpeg",
+    "static/media/user1.jpeg": "/green_organic_farming/static/media/user1.1f8b2cd0f8b1d8bec661.jpeg",
+    "static/media/user7.jpeg": "/green_organic_farming/static/media/user7.1f2478cfd6b003589857.jpeg",
+    "static/media/user6.jpg": "/green_organic_farming/static/media/user6.66068e2a917eec6ec36e.jpg",
+    "static/media/slick.svg": "/green_organic_farming/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/green_organic_farming/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/green_organic_farming/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/green_organic_farming/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/green_organic_farming/index.html",
+    "main.c44d4841.css.map": "/green_organic_farming/static/css/main.c44d4841.css.map",
+    "main.04661171.js.map": "/green_organic_farming/static/js/main.04661171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44d4841.css",
+    "static/js/main.04661171.js"
+  ]
+}
